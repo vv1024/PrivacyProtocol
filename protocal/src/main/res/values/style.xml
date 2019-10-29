@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="Pro_Round_Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <!-- 背景颜色及透明程度 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 是否没有标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 是否浮现在activity之上，整个layout会在屏幕中心，相当于浮在屏幕上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否背景变暗 -->
+        <!--        <item name="android:backgroundDimEnabled">false</item>-->
+        <!-- 设置背景暗层透明度-->
+        <!--        <item name="android:backgroundDimAmount">0.5</item>-->
+        <!-- 是否半透明 -->
+        <!--        <item name="android:windowIsTranslucent">false</item>-->
+    </style>
+</resources>

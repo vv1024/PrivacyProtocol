@@ -1,0 +1,24 @@
+<resources>
+    <string name="pro_app_name">protocal</string>
+    <string name="pro_agree">OK</string>
+    <string name="pro_refuse">Refuse</string>
+    <string name="pro_btn_ok">OK</string>
+    <string name="pro_privacy_protocol">Tips</string>
+    <string name="pro_privacy_safe_tip">In order to better use this APP, please allow some permissions</string>
+    <string name="dialog_children_title">Under Age Mode</string>
+    <string name="pro_close">close</string>
+    <string name="pro_open">open</string>
+    <string name="dialog_children_pwd_title">Set Password</string>
+    <string name="dialog_children_pwd_title_tip">Turn on Under Age Mode to set password</string>
+    <string name="dialog_children_close_pwd_title_tip">Enter password to turn off Under Age Mode</string>
+    <string name="dialog_children_close_pwd_title">Under Age Mode is on</string>
+    <string name="pro_back">back</string>
+    <string name="pro_ignore">ignore</string>
+    <string name="pro_pwd_wrong">Incorrect password</string>
+    <string name="pro_quit_child_mode">logged out Under Age Mode</string>
+    <string name="pro_ok">OK</string>
+    <string name="dialog_children_timeout_title">Out of time today</string>
+    <string name="pro_quit">Quit</string>
+    <string name="pro_delayed">delayed</string>
+    <string name="pro_children_mode_delay">Enter password to delay time</string>
+</resources>

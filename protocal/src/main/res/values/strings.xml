@@ -1,0 +1,25 @@
+<resources>
+    <string name="pro_app_name">protocal</string>
+    <string name="pro_agree">了解</string>
+    <string name="pro_refuse">拒绝</string>
+    <string name="pro_btn_ok">好的</string>
+
+    <string name="pro_privacy_protocol">温馨提示</string>
+    <string name="pro_privacy_safe_tip">为了更好地使用APP，需要您允许部分权限</string>
+    <string name="dialog_children_title">青少年模式设置</string>
+    <string name="pro_close">关闭</string>
+    <string name="pro_ignore">忽略</string>
+    <string name="pro_open">开启</string>
+    <string name="dialog_children_pwd_title">设置密码</string>
+    <string name="dialog_children_pwd_title_tip">启动青少年模式需要设置独立密码</string>
+    <string name="dialog_children_close_pwd_title_tip">输入独立密码关闭青少年模式</string>
+    <string name="dialog_children_close_pwd_title">青少年模式已开启</string>
+    <string name="pro_back">返回</string>
+    <string name="pro_pwd_wrong">密码不正确</string>
+    <string name="pro_quit_child_mode">已退出青少年模式</string>
+    <string name="pro_ok">确定</string>
+    <string name="dialog_children_timeout_title">今天时间已用完</string>
+    <string name="pro_quit">退出</string>
+    <string name="pro_delayed">延时</string>
+    <string name="pro_children_mode_delay">今天的用时已超出设定时间，如需继续使用，请家长输入密码后解锁延长使用时间。</string>
+</resources>

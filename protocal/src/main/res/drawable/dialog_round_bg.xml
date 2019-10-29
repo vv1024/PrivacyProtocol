@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--背景颜色-->
+    <solid android:color="@color/pro_white"/>
+    <!--设置圆角的角度-->
+    <corners android:radius="16dp"/>
+    <padding
+        android:bottom="8dp"
+        android:top="20dp"/>
+</shape>

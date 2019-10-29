@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pro_white">#FFFFFFFF</color>
+    <color name="pro_light_green">#07BF06</color>
+    <color name="pro_green">#1B5E20</color>
+    <color name="pro_blue">#2cb1e1</color>
+    <color name="pro_dark_blue">#01579B</color>
+    <color name="pro_black">#000000</color>
+    <color name="pro_transparent">#00000000</color>
+    <color name="pro_gray">#898989</color>
+    <color name="pro_dark_gray">#454545</color>
+</resources>
